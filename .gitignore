@@ -1,0 +1,44 @@
+# Temporary files
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Tool generated files
+*.log
+*.vcd
+*.fst
+*.lxt
+*.lxt2
+
+# Simulation artifacts
+obj_dir/
+sim_output/
+work/
+
+# Synthesis artifacts
+*.dcp
+*.bit
+*.ltx
+*.rpt
+*.xpr
+
+# IDE files
+.vscode/
+*.code-workspace
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Build directories
+build/
+out/
+
+# Backup files
+*.bak
+*.orig
+
+# Core dumps
+core
+*.core
